@@ -91,9 +91,6 @@ rules.append(Rule([('type', 'напиток'), ('country', 'Германия'), 
 rules.append(Rule([('type', 'напиток'), ('country', 'Турция'), ('temperature', 'горячее')], 
                   ('name', 'чай')))
 
-rules.append(Rule([('texture', 'твердое'), ('country', 'Япония')], 
-                  ('name', 'суши')))
-
 
 # In[72]:
 
